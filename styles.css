@@ -409,7 +409,7 @@ profile-photo .img{
   background-color: #767676;
   border: 0;
   margin-bottom: 10px;
-  color: black;
+  color: white;
 }
 .contact input::placeholder,.contact textarea::placeholder{
   color: white;
@@ -420,6 +420,7 @@ profile-photo .img{
   padding: 10px 40px;
   font-weight:bold ;
   font-size: 18px;
+  color : black;
 }
 .contact .submit:hover{
   transform: scale(1.1);
